@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "site": "sicchieri-site",
     "public": "dist",
     "ignore": [
       "firebase.json",
