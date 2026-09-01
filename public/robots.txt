@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sicchiericorteedobra.com.br/sitemap.xml

@@ -1,0 +1,20 @@
+{
+  "short_name": "Sicchieri",
+  "name": "Sicchieri - Corte e Dobra de Chapas de Aço",
+  "icons": [
+    {
+      "src": "/sicchieri-assets/b141ea8c1_NOVALOGOSICCHIERIjpeg.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/sicchieri-assets/b141ea8c1_NOVALOGOSICCHIERIjpeg.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#1e3a8a",
+  "display": "standalone"
+}
